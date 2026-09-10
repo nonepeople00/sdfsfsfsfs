@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=VLESS Client
+Comment=GUI-клиент для VLESS (xray-core / sing-box)
+Exec=/usr/bin/python3 /opt/vless-gui-client/main.py
+Icon=network-vpn
+Terminal=false
+Categories=Network;Security;
+StartupNotify=true
